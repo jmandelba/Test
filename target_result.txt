@@ -1,0 +1,23 @@
+Database Type: PostgreSQL
+Database Name: pfmegrnargs
+
+['information_schema', 'administrable_role_authorizations', 'grantee', 'character varying', None, 'YES', None]
+['information_schema', 'administrable_role_authorizations', 'role_name', 'character varying', None, 'YES', None]
+['information_schema', 'administrable_role_authorizations', 'is_grantable', 'character varying', 3, 'YES', None]
+['information_schema', 'applicable_roles', 'grantee', 'character varying', None, 'YES', None]
+['information_schema', 'applicable_roles', 'role_name', 'character varying', None, 'YES', None]
+['information_schema', 'applicable_roles', 'is_grantable', 'character varying', 3, 'YES', None]
+['information_schema', 'attributes', 'udt_catalog', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'udt_schema', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'udt_name', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'attribute_name', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'ordinal_position', 'integer', None, 'YES', None]
+['information_schema', 'attributes', 'attribute_default', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'is_nullable', 'character varying', 3, 'YES', None]
+['information_schema', 'attributes', 'data_type', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'character_maximum_length', 'integer', None, 'YES', None]
+['information_schema', 'attributes', 'character_octet_length', 'integer', None, 'YES', None]
+['information_schema', 'attributes', 'character_set_catalog', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'character_set_schema', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'character_set_name', 'character varying', None, 'YES', None]
+['information_schema', 'attributes', 'collation_catalog', 'character varying', None, 'YES', None]
